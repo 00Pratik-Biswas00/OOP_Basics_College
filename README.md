@@ -1,2 +1,3 @@
 # OOP_Basics
-Hi Bondhura, these are the work of my college OOP lab. You can check OOP algorithms (in Java) here!
+
+Increase your OOP knowledge by learning the basic theories: https://youtube.com/playlist?list=PLqleLpAMfxGCbdaJ6SoExDfHrTfRDeWeG&si=DVSIKGDMyYG6YO7I
